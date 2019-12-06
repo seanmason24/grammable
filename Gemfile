@@ -71,6 +71,7 @@ gem 'popper_js', '~> 1.11.1'
 gem 'bootstrap', '4.0.0.alpha6'
 gem 'devise'
 gem 'carrierwave','~> 2.0'
+gem 'figaro'
 
 
 source 'https://rails-assets.org' do
